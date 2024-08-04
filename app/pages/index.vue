@@ -1,10 +1,10 @@
 <template>
   <div class="w-screen h-screen p-[100px] flex justify-center items-center">
       <div class="w-full h-full grid grid-cols-7 grid-rows-8 gap-5">
-          <div id="intro" class="w-full h-full col-span-2 row-span-4 flex flex-col items-center px-16 py-16 gap-8 bg-gradient-to-br from-[#171717] via-[#101010] to-black rounded-3xl shadow-lg">
+          <div id="intro" class="w-full h-full col-span-2 row-span-4 flex flex-col justify-center items-center gap-8 bg-gradient-to-br from-[#171717] via-[#101010] to-black rounded-3xl shadow-lg">
             <img class="w-36" src="/ZachLTechCircle.png" alt="Logo">
             <div class="flex flex-col justify-center items-center gap-5">
-              <p class="text-lg text-center">
+              <p class="text-lg text-center max-w-[400px]">
                 I'm a freelance web-developer & software engineer studying CS full-time @ FAU
               </p>
               <div class="flex gap-3">
