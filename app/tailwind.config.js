@@ -10,6 +10,9 @@ export default {
 	],
 	theme: {
 		extend: {},
+		screens: {
+			'breakpoint': '1420px'
+		}
 	},
 	plugins: [],
 };
