@@ -9,6 +9,6 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: ['nuxt-swiper'],
+  modules: ['nuxt-swiper', "nuxt-viewport"],
   compatibilityDate: '2024-07-29',
 })

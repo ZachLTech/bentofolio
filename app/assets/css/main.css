@@ -58,3 +58,9 @@ body{
         @apply text-2xl;
     }
 }
+
+@media (width <= 1800px) {
+    .fix-overflow{
+        @apply justify-start;
+    }
+}
