@@ -8,8 +8,8 @@
                 I'm a freelance web-developer & software engineer studying CS full-time @ FAU
               </p>
               <div class="flex gap-3">
-                <a href="mailto://zlopezzl2021@gmail.com" target="_blank" class="h-10 flex items-center justify-center px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Contact</a>
-                <a href="https://zachl.tech" target="_blank" class="h-10 flex items-center justify-center px-4 rounded-lg border-2 border-[#c3c3c3] text-lg">Socials</a>
+                <a href="mailto://zlopezzl2021@gmail.com" target="_blank" class="h-10 hover:scale-105 transition-all flex items-center justify-center px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Contact</a>
+                <a href="https://zachl.tech" target="_blank" class="h-10 hover:scale-105 transition-all flex items-center justify-center px-4 rounded-lg border-2 border-[#c3c3c3] text-lg">Socials</a>
               </div>
               <!-- <p class="text-lg font-bold text-[#383838] bg-[#171717] px-2 rounded-lg">ssh zachl.tech</p> -->
             </div>
@@ -135,8 +135,8 @@
                     View a nicely formatted rundown of my skills, experience and education.
                   </p>
                   <div class="h-[25%] flex justify-center items-start flex-wrap gap-3">
-                    <a href="" class="flex items-center justify-center py-2 px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Website</a>
-                    <a href="" class="flex items-center justify-center py-[6px] px-4 rounded-lg border-2 border-[#c3c3c3] text-lg">PDF</a>
+                    <a href="" class="flex hover:scale-105 transition-all items-center justify-center py-2 px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Website</a>
+                    <a href="" class="flex hover:scale-105 transition-all items-center justify-center py-[6px] px-4 rounded-lg border-2 border-[#c3c3c3] text-lg">PDF</a>
                   </div>
                 </div>
               </SwiperSlide>
@@ -158,7 +158,7 @@
                     Check out some small posts I've made on various topics regarding tech. 
                   </p>
                   <div class="h-[25%] flex justify-center items-start gap-3">
-                    <a href="" class="flex items-center justify-center py-2 px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Coming Soon...</a>
+                    <a href="#" class="flex hover:scale-105 transition-all items-center justify-center py-2 px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Coming Soon...</a>
                   </div>
                 </div>
               </SwiperSlide>
