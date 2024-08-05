@@ -29,5 +29,3 @@ dist-ssr
 # Rust
 target/
 out/
-
-main.css

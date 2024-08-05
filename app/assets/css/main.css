@@ -3,10 +3,14 @@
 @tailwind utilities;
 
 body{
+    overflow-x: hidden;
+}
+
+.basically-body{
     /* background: radial-gradient(#535353, #000000) */
     /* background: radial-gradient(#212121, #0f0f0f) */
-    background-image: url(https://images.unsplash.com/photo-1692912364084-97b9ae31a8e1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
-    background-size: cover;
+    background-image: url(https://images.unsplash.com/photo-1690652067906-f52dcffa0ab9?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: contain;
     box-shadow: inset 0 0 5em 1em #000;
 }
 
@@ -63,7 +67,10 @@ body{
 }
 
 @media (width <= 1800px) {
-    .fix-overflow{
+    .fix-overflow {
         @apply justify-start;
+    }
+    .basically-body {
+        background-image: url(https://images.unsplash.com/photo-1665319545079-31f2c242bcf5?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     }
 }
