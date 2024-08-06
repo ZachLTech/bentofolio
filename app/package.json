@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxtjs/seo": "^2.0.0-rc.16",
     "chart.js": "^4.4.3",
     "nuxt": "^3.12.4",
     "nuxt-swiper": "^1.2.2",
