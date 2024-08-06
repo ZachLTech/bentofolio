@@ -66,8 +66,8 @@
                   View a nicely formatted rundown of my skills, experience and education.
                 </p>
                 <div class="h-[25%] flex justify-center items-start flex-wrap gap-3">
-                  <a href="" class="flex items-center justify-center py-2 px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Website</a>
-                  <a href="" class="flex items-center justify-center py-[6px] px-4 rounded-lg border-2 border-[#c3c3c3] text-lg">PDF</a>
+                  <a href="https://resume.zachl.tech" target="_blank" class="flex items-center justify-center py-2 px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Website</a>
+                  <a href="https://resume-pdf.zachl.tech" target="_blank" class="flex items-center justify-center py-[6px] px-4 rounded-lg border-2 border-[#c3c3c3] text-lg">PDF</a>
                 </div>
               </div>
 
@@ -85,7 +85,7 @@
                   Check out some small posts I've made on various topics regarding tech. 
                 </p>
                 <div class="h-[25%] flex justify-center items-start gap-3">
-                  <a href="" class="flex items-center justify-center py-2 px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Coming Soon...</a>
+                  <a href="https://byeurl.cyou/comingsoon" target="_blank" class="flex items-center justify-center py-2 px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Coming Soon...</a>
                 </div>
               </div>
 
@@ -135,8 +135,8 @@
                     View a nicely formatted rundown of my skills, experience and education.
                   </p>
                   <div class="h-[25%] flex justify-center items-start flex-wrap gap-3">
-                    <a href="" class="flex hover:scale-105 transition-all items-center justify-center py-2 px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Website</a>
-                    <a href="" class="flex hover:scale-105 transition-all items-center justify-center py-[6px] px-4 rounded-lg border-2 border-[#c3c3c3] text-lg">PDF</a>
+                    <a href="https://resume.zachl.tech" target="_blank" class="flex hover:scale-105 transition-all items-center justify-center py-2 px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Website</a>
+                    <a href="https://resume-pdf.zachl.tech" target="_blank" class="flex hover:scale-105 transition-all items-center justify-center py-[6px] px-4 rounded-lg border-2 border-[#c3c3c3] text-lg">PDF</a>
                   </div>
                 </div>
               </SwiperSlide>
@@ -158,7 +158,7 @@
                     Check out some small posts I've made on various topics regarding tech. 
                   </p>
                   <div class="h-[25%] flex justify-center items-start gap-3">
-                    <a href="#" class="flex hover:scale-105 transition-all items-center justify-center py-2 px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Coming Soon...</a>
+                    <a href="https://byeurl.cyou/comingsoon" target="_blank" class="flex hover:scale-105 transition-all items-center justify-center py-2 px-4 rounded-lg bg-[#c3c3c3] text-black text-lg">Coming Soon...</a>
                   </div>
                 </div>
               </SwiperSlide>
